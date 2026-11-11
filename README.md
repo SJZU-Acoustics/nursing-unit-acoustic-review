@@ -27,7 +27,7 @@ Install the Python packages with `python -m pip install openpyxl pandas`.
 
 ## Usage
 
-1. Download `Nursing_unit_acoustic_measurement_scoping_review.xlsx` from [Zenodo](https://doi.org/10.5281/zenodo.24135850) and place it in `data/`. The record opens when the paper is accepted; during peer review the manuscript gives reviewers a private link to the same file.
+1. Download `Nursing_unit_acoustic_measurement_scoping_review.xlsx` from [Zenodo](https://doi.org/10.5281/zenodo.24135850) and place it in `data/`. The record is not yet open; during the first round of peer review the manuscript gives reviewers a private link to the same file.
 2. Open a terminal in the repository root and run:
 
 ```sh
